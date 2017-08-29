@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog Title</title>
+    <title>Jason Zhang</title>
     <link>http://madjisi.github.io/</link>
-    <description>Recent content on Blog Title</description>
+    <description>Recent content on Jason Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 29 Aug 2017 22:27:03 +0100</lastBuildDate>
@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>I Am Back</title>
+      <title>I Am Back and Start Again</title>
       <link>http://madjisi.github.io/post/i-am-back/</link>
       <pubDate>Tue, 29 Aug 2017 22:27:03 +0100</pubDate>
       
@@ -21,7 +21,7 @@
 Next, I will try to mitigate the previous post to this new website.
 And I will try to add some other functions to this website.
 Don&amp;rsquo;t think someone will read it, do I?
-At last, celebrate again! yoyoyo!</description>
+At last, celebrate again! YoYoYo!</description>
     </item>
     
   </channel>
